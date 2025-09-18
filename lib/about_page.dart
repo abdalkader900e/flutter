@@ -11,7 +11,7 @@ class AboutPage extends StatelessWidget {
           "تطبيق بسيط للتشفير وفك التشفير باستخدام AES.\n"
               "✔ تم تطويره بفريمورك Flutter\n"
               "✔ يستخدم مكتبة encrypt\n"
-              "✔ مناسب كمشروع جامعي للتوضيح والمناقشة",
+              "✔  كمشروع جامعي للتوضيح والمناقشة",
           style: TextStyle(fontSize: 18, height: 1.6),
         ),
       ),
