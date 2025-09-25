@@ -1,4 +1,7 @@
 
+## 🚀 About Me
+I'm a abdalkader mohmad
+
 ## 🛠 Skills
 pythone,html,css,js,dart
 
@@ -35,15 +38,9 @@ For support, email abdalkader@gmail.com
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
 
 
-## 🚀 About Me
-I'm a abdalkader mohmad
+
 
 
 ## Demo
