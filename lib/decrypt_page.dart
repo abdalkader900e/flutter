@@ -6,6 +6,7 @@ class DecryptPage extends StatefulWidget {
   _DecryptPageState createState() => _DecryptPageState();
 }
 
+
 class _DecryptPageState extends State<DecryptPage> {
   TextEditingController _controller = TextEditingController();
   String result = "";
