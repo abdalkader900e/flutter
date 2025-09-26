@@ -1,16 +1,49 @@
-# secureapp
 
-A new Flutter project.
+## 🚀 About Me
+I'm a abdalkader mohmad
 
-## Getting Started
+## 🛠 Skills
+pythone,html,css,js,dart
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Other Common Github Profile Sections
+👩‍💻 I'm Studey in ust
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧠 I'm learning CS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🤔 I'm looking for help with sameone have skalse
+
+💬 Ask me about project flutter
+
+📫 How to reach me in instgram
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+# Project Title
+
+to encrypt plantixt and decrpt
+
+
+## Support
+
+For support, email abdalkader@gmail.com
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+
+
+
+
+
+## Demo
+
+Insert gif or link to demo
+
