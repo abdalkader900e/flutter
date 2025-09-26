@@ -17,8 +17,6 @@ class CryptoHelper {
     } catch (_) {
       return " خطأ: النص المدخل غير صحيح";
 
-
-
     }
   }
 }
