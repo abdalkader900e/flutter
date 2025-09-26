@@ -6,6 +6,7 @@ class EncryptPage extends StatefulWidget {
   _EncryptPageState createState() => _EncryptPageState();
 }
 
+
 class _EncryptPageState extends State<EncryptPage> {
   TextEditingController _controller = TextEditingController();
   String result = "";
