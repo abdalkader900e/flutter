@@ -18,6 +18,7 @@ class _CryptoAppState extends State<CryptoApp> {
       isDark = !isDark;
     });
   }
+  
 
   @override
   Widget build(BuildContext context) {
