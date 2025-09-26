@@ -16,6 +16,7 @@ class CryptoHelper {
       return encrypter.decrypt64(cipher, iv: iv);
     } catch (_) {
       return "❌ خطأ: النص المدخل غير صحيح";
+      
     }
   }
 }
