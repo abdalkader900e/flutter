@@ -5,6 +5,7 @@ class CryptoHelper {
   static final iv = encrypt.IV.fromLength(16);   // متجه التهيئة
 
   static String encryptText(String text) {
+    
     final encrypter = encrypt.Encrypter(encrypt.AES(key));
     final encrypted = encrypter.encrypt(text, iv: iv);
     return encrypted.base64;
