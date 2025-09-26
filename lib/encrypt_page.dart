@@ -14,6 +14,7 @@ class EncryptPage extends StatefulWidget {
 
 
 
+
 class _EncryptPageState extends State<EncryptPage> {
   TextEditingController _controller = TextEditingController();
   String result = "";
