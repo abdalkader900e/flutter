@@ -5,6 +5,13 @@ I'm a abdalkader mohmad
 ## 🛠 Skills
 pythone,html,css,js,dart
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a" height="30" width="40" /></a>
+<a href="https://instagram.com/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aa" height="30" width="40" /></a>
+</p>
+
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm Studey in ust
