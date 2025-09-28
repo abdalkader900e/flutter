@@ -16,6 +16,7 @@ class _CryptoAppState extends State<CryptoApp> {
   void toggleTheme() {
     setState(
       () {
+        
       isDark = !isDark;
     });
   }
