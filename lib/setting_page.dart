@@ -5,9 +5,6 @@ class SettingsPage extends StatelessWidget {
   SettingsPage({required this.toggleTheme});
 
 
-
-
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
