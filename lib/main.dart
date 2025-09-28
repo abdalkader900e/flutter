@@ -14,12 +14,15 @@ class _CryptoAppState extends State<CryptoApp> {
   bool isDark = false;
 
   void toggleTheme() {
-    setState(() {
+    setState(
+      () {
+        
       isDark = !isDark;
     });
   }
 
   
+
 
   @override
   Widget build(BuildContext context) {
