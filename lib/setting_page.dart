@@ -13,13 +13,14 @@ class SettingsPage extends StatelessWidget {
         child: ElevatedButton.icon(
           icon: Icon(Icons.brightness_6),
           label: Text("تبديل الوضع الداكن/الفاتح"),
-          
+
           onPressed: toggleTheme,
         ),
       ),
     );
   }
 }
+
 
 
 
